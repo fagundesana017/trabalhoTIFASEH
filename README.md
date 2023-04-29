@@ -1,2 +1,2 @@
-# trabalhoTIFASEH
+# TrabalhoTIFASEH
 ## Trabalho inicial de JAVA ##
